@@ -1,0 +1,16 @@
+table {
+  font-family: arial, sans-serif;
+
+  width: 100%;
+}
+td, th {
+  border: 2px solid #000000;
+  text-align: left;
+  padding: 8px;
+}
+
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: left;
+}
