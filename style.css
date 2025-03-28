@@ -14,3 +14,7 @@ td, th {
   background-color: lightblue;
   text-align: left;
 }
+
+.topnav {
+  margin-bottom: 20px;  /* Adjust the value to your desired space */
+}
